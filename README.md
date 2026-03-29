@@ -35,7 +35,7 @@ Final project report in PDF format.
 * Awareness about cybercrime
   
 ## Important links
-* github profile:
+* github profile:https://github.com/lavishagupta910
 * linkedin profile: https://www.linkedin.com/in/lavisha-gupta-4b1a49380/
 * haackerrank: https://www.hackerrank.com/profile/lavisha_25bce101
 * google form: https://docs.google.com/forms/d/e/1FAIpQLSf9PIE9nT9H5R6rdmxlAOBYZp72N86_LU8AJHrvWKw50v7HTA/viewform?usp=publish-editor
